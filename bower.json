@@ -1,7 +1,7 @@
 {
   "name": "moment-import",
   "description": "reference the moment library using html imports",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "moment-import.html",
   "authors": [
     "S. Francis"
