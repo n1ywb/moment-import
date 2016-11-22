@@ -1,14 +1,14 @@
 {
   "name": "moment-import",
   "description": "reference the moment library using html imports",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellipticaljs/moment-import.git"
+    "url": "https://github.com/n1ywb/moment-import.git"
   },
   "dependencies": {
-    "moment": "^2.14.1"
+    "moment": "~2"
   }
 }
